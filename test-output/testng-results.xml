@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19003" started-at="2017-07-10T20:10:43Z" finished-at="2017-07-10T20:11:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19003" started-at="2017-07-10T20:10:43Z" finished-at="2017-07-10T20:11:02Z">
+      <class name="main.MainTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:main.MainTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="16898" started-at="2017-07-10T15:10:43Z" finished-at="2017-07-10T15:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:main.MainTest@6f7fd0e6]" name="test1" duration-ms="638" started-at="2017-07-10T15:11:00Z" finished-at="2017-07-10T15:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:main.MainTest@6f7fd0e6]" name="test2" duration-ms="19" started-at="2017-07-10T15:11:00Z" finished-at="2017-07-10T15:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:main.MainTest@6f7fd0e6]" name="quit" is-config="true" duration-ms="1420" started-at="2017-07-10T15:11:00Z" finished-at="2017-07-10T15:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- main.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
